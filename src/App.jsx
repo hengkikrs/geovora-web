@@ -4,7 +4,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { Map } from "lucide-react";
 
 // Komponen Global
-import Navbar from "./components/Navbar";
+import Navbar from "./components/navbar";
 import Footer from "./components/Footer";
 import FloatingWA from "./components/FloatingWA";
 
@@ -141,3 +141,4 @@ function App() {
 }
 
 export default App;
+
